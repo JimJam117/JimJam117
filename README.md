@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-<a href="https://github.com/jstrieb/github-stats">
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+<a href="https://github.com/JimJam117/github-stats">
+<img src="https://github.com/JimJam117/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/JimJam117/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/JimJam117/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/JimJam117/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
 </a>
+
+<a href="https://github.com/jstrieb/github-stats"><em>Github Stats</em></a>
 
 <!--
 **JimJam117/JimJam117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
