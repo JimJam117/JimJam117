@@ -1,10 +1,7 @@
-### Hi there 👋
 
 <a href="https://github.com/JimJam117/github-stats">
-<img src="https://github.com/JimJam117/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/JimJam117/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/JimJam117/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/JimJam117/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+<img src="https://github.com/JimJam117/github-stats/blob/master/generated/overview.svg" />
+<img src="https://github.com/JimJam117/github-stats/blob/master/generated/languages.svg" />
 </a>
 
 <a href="https://github.com/jstrieb/github-stats"><em>Github Stats</em></a>
