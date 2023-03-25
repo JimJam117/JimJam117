@@ -1,11 +1,8 @@
+James Sparrow
 
-<a href="https://github.com/JimJam117/github-stats">
-<img src="https://github.com/JimJam117/github-stats/blob/master/generated/overview.svg" />
-<img src="https://github.com/JimJam117/github-stats/blob/master/generated/languages.svg" />
-</a>
+UEA CompSci Student, currently on industrial placement in London.
 
-<a href="https://github.com/jstrieb/github-stats"><em>Github Stats</em></a>
-
+You can find most of the projects I've worked on here on my website: www.jsparrow.uk
 <!--
 **JimJam117/JimJam117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
