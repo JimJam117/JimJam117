@@ -1,6 +1,6 @@
 James Sparrow
 
-UEA CompSci Student, currently on industrial placement in London.
+UEA CompSci Student
 
 You can find most of the projects I've worked on here on my website: www.jsparrow.uk
 <!--
