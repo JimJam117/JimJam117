@@ -1,8 +1,4 @@
 James Sparrow
-
-UEA CompSci Student
-
-You can find most of the projects I've worked on here on my website: www.jsparrow.uk
 <!--
 **JimJam117/JimJam117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
